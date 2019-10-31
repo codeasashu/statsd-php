@@ -1,5 +1,5 @@
 {
-    "name": "domnikl/statsd",
+    "name": "codeasashu/statsd",
     "type": "library",
     "description": "a PHP client for statsd",
     "keywords": [
